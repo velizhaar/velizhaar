@@ -23,12 +23,14 @@
 
 ## Some of My Projects:
 
+- [Music Player] | [View repo](https://velizhaar.github.io/music-player/)
 - [Vidly] | [View repo](https://github.com/velizhaar/vidly)
 - [Movie DB] | [View repo](https://github.com/velizhaar/movie-database.git)
 - [Responsive Website] | [View repo](https://github.com/velizhaar/responsive-web.git)
 - [Bootstrap Website] | [View repo](https://github.com/velizhaar/weblanding-page)
 - [Fake Pizza Hut Website] | [View repo](https://velizhaar.github.io/wpu.hut)
 
+[music player]: https://velizhaar-music-player.herokuapp.com/
 [bootstrap website]: https://velizhaar.github.io/weblanding-page/
 [vidly]: https://velizhaar-vidly.herokuapp.com/
 [responsive website]: https://velizhaar.github.io/responsive-web/
