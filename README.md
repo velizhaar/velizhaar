@@ -23,6 +23,7 @@
 
 ## Some of My Projects:
 
+- [Capture] | [View repo](https://velizhaar.github.io/capture/)
 - [Music Player] | [View repo](https://velizhaar.github.io/music-player/)
 - [Vidly] | [View repo](https://github.com/velizhaar/vidly)
 - [Movie DB] | [View repo](https://github.com/velizhaar/movie-database.git)
@@ -30,6 +31,7 @@
 - [Bootstrap Website] | [View repo](https://github.com/velizhaar/weblanding-page)
 - [Fake Pizza Hut Website] | [View repo](https://velizhaar.github.io/wpu.hut)
 
+[capture]: https://velizhaar-capture.herokuapp.com/
 [music player]: https://velizhaar-music-player.herokuapp.com/
 [bootstrap website]: https://velizhaar.github.io/weblanding-page/
 [vidly]: https://velizhaar-vidly.herokuapp.com/
