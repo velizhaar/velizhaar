@@ -3,7 +3,7 @@
 ## I'm a New Developer:
 
 > I have learned, understood, and practiced Web Development Skills and tools, such as HTML, CSS, JS, Git,
-> React & React Native. I am confident that I can contribute as a Front-End Developer, and practice/sharpen my skills!
+> & React. I am confident that I can contribute as a Front-End Developer, and practice/sharpen my skills!
 
 - My short-term goal is to get a job as front-end developer, sharpen my skills and possibly get more knowledges, and of course build side projects with it.
 - currently in progress to complete node js course, and shortly after will practice react again and its UI library (framer motion etc).
