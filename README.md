@@ -23,7 +23,7 @@
 
 ## Some of My Projects:
 
-- [Ignite] | [View repo](https://github.com/velizhaar/ignite/)
+- [Ignite] | [View repo](https://github.com/velizhaar/ignite-game/)
 - [Personal Project Website] | [View repo](https://github.com/velizhaar/personal-website/)
 - [Capture] | [View repo](https://github.com/velizhaar/capture/)
 - [Music Player] | [View repo](https://github.com/velizhaar/music-player/)
