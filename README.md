@@ -23,6 +23,7 @@
 
 ## Some of My Projects:
 
+- [Ignite] | [View repo](https://github.com/velizhaar/ignite/)
 - [Personal Project Website] | [View repo](https://github.com/velizhaar/personal-website/)
 - [Capture] | [View repo](https://github.com/velizhaar/capture/)
 - [Music Player] | [View repo](https://github.com/velizhaar/music-player/)
@@ -32,6 +33,7 @@
 - [Bootstrap Website] | [View repo](https://github.com/velizhaar/weblanding-page)
 - [Fake Pizza Hut Website] | [View repo](https://github.com/velizhaar/wpu.hut)
 
+[ignite]: https://velizhaar-ignite-game.herokuapp.com/
 [personal project website]: https://velizhaar.github.io/personal-website/
 [capture]: https://velizhaar-capture.herokuapp.com/
 [music player]: https://velizhaar-music-player.herokuapp.com/
