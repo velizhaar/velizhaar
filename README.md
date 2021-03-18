@@ -34,9 +34,9 @@
 - [Fake Pizza Hut Website] | [View repo](https://github.com/velizhaar/wpu.hut)
 
 [ignite]: https://ignite-nu.vercel.app/
-[personal project website]: https://velizhaar.github.io/personal-website/
-[capture]: https://velizhaar-capture.herokuapp.com/
-[music player]: https://velizhaar-music-player.herokuapp.com/
+[personal project website]: https://personal-website-alpha-three.vercel.app/
+[capture]: https://capture-five.vercel.app/
+[music player]: https://music-player-topaz.vercel.app/
 [bootstrap website]: https://velizhaar.github.io/weblanding-page/
 [vidly]: https://velizhaar-vidly.herokuapp.com/
 [responsive website]: https://velizhaar.github.io/responsive-web/
