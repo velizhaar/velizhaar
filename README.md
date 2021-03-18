@@ -33,7 +33,7 @@
 - [Bootstrap Website] | [View repo](https://github.com/velizhaar/weblanding-page)
 - [Fake Pizza Hut Website] | [View repo](https://github.com/velizhaar/wpu.hut)
 
-[ignite]: https://ignite-game.herokuapp.com/
+[ignite]: https://ignite-nu.vercel.app/
 [personal project website]: https://velizhaar.github.io/personal-website/
 [capture]: https://velizhaar-capture.herokuapp.com/
 [music player]: https://velizhaar-music-player.herokuapp.com/
