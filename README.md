@@ -20,6 +20,7 @@
 [<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/velizhaar/velizhaar/master/img/github.png" />]
 [<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/velizhaar/velizhaar/master/img/sass.png" />]
 [<img align="left" alt="heroku" width="26px" src="https://raw.githubusercontent.com/velizhaar/velizhaar/master/img/heroku.png" />]
+[<img align="left" alt="vercel" width="26px" src="https://raw.githubusercontent.com/velizhaar/velizhaar/master/img/vercel.png" />]
 
 ## Some of My Projects:
 
