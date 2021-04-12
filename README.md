@@ -26,7 +26,7 @@
 
 - [3D Card Effect] | [View repo](https://github.com/velizhaar/wardah-3d-card-effect/)
 - [Ignite] | [View repo](https://github.com/velizhaar/ignite-game/)
-- [Personal Project Website] | [View repo](https://github.com/velizhaar/personal-website/)
+- [Personal Project Website] | [View repo](https://velizhaar.github.io/personal-website-veli/)
 - [Capture] | [View repo](https://github.com/velizhaar/capture/)
 - [Music Player] | [View repo](https://github.com/velizhaar/music-player/)
 - [Vidly] | [View repo](https://github.com/velizhaar/vidly)
@@ -37,7 +37,7 @@
 
 [3D Card Effect]: https://velizhaar.github.io/wardah-3d-card-effect/
 [ignite]: https://ignite-nu.vercel.app/
-[personal project website]: https://personal-website-alpha-three.vercel.app/
+[personal project website]: https://personal-website-veli.vercel.app/
 [capture]: https://capture-five.vercel.app/
 [music player]: https://music-player-topaz.vercel.app/
 [bootstrap website]: https://velizhaar.github.io/weblanding-page/
