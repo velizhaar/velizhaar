@@ -24,6 +24,7 @@
 
 ## Some of My Projects:
 
+- [React Quiz App] | [View repo](https://github.com/velizhaar/quiz-app/)
 - [3D Card Effect] | [View repo](https://github.com/velizhaar/wardah-3d-card-effect/)
 - [Ignite] | [View repo](https://github.com/velizhaar/ignite-game/)
 - [Personal Project Website] | [View repo](https://velizhaar.github.io/personal-website-veli/)
@@ -35,6 +36,7 @@
 - [Bootstrap Website] | [View repo](https://github.com/velizhaar/weblanding-page)
 - [Fake Pizza Hut Website] | [View repo](https://github.com/velizhaar/wpu.hut)
 
+[3D Card Effect]: https://quiz-app-wheat.vercel.app/
 [3D Card Effect]: https://velizhaar.github.io/wardah-3d-card-effect/
 [ignite]: https://ignite-nu.vercel.app/
 [personal project website]: https://personal-website-veli.vercel.app/
