@@ -36,7 +36,7 @@
 - [Bootstrap Website] | [View repo](https://github.com/velizhaar/weblanding-page)
 - [Fake Pizza Hut Website] | [View repo](https://github.com/velizhaar/wpu.hut)
 
-[3D Card Effect]: https://quiz-app-wheat.vercel.app/
+[React Quiz App]: https://quiz-app-wheat.vercel.app/
 [3D Card Effect]: https://velizhaar.github.io/wardah-3d-card-effect/
 [ignite]: https://ignite-nu.vercel.app/
 [personal project website]: https://personal-website-veli.vercel.app/
